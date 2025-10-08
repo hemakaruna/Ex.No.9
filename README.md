@@ -34,14 +34,14 @@ Before generating the video, the surgical procedure was analyzed to identify cri
 ### **2. Create the Basic Prompt**
 **Initial Description:**
 
-> “A high-definition educational video showing an open-heart surgery in a sterile operating theatre.”
+ “A high-definition educational video showing an open-heart surgery in a sterile operating theatre.”
 
 ---
 
 ### **3. Refine the Prompt with More Detail**
 **Refined Version:**
 
-> “A detailed high-definition medical tutorial video of an open-heart surgery performed in a sterile operation room — showing a surgical team executing a median sternotomy, exposing the heart, connecting the patient to the bypass machine, and performing cardiac repair. Clear labeling of heart structures and precise use of surgical instruments under bright clinical lighting.”
+ “A detailed high-definition medical tutorial video of an open-heart surgery performed in a sterile operation room — showing a surgical team executing a median sternotomy, exposing the heart, connecting the patient to the bypass machine, and performing cardiac repair. Clear labeling of heart structures and precise use of surgical instruments under bright clinical lighting.”
 
 ---
 
@@ -56,7 +56,7 @@ Before generating the video, the surgical procedure was analyzed to identify cri
 ### **5. Adjust and Fine-tune**
 **Final Refined Prompt:**
 
-> “A high-definition, clinically accurate open-heart surgery tutorial for medical students — showing labeled heart anatomy (atria, ventricles, valves, coronary arteries), surgical instruments (scalpel, retractor, suction tip, forceps), and a step-by-step procedural demonstration from incision to closure. The scene is set in a sterile surgical environment with clear lighting, calm narration tone, and smooth camera movements for instructional clarity.”
+ “A high-definition, clinically accurate open-heart surgery tutorial for medical students — showing labeled heart anatomy (atria, ventricles, valves, coronary arteries), surgical instruments (scalpel, retractor, suction tip, forceps), and a step-by-step procedural demonstration from incision to closure. The scene is set in a sterile surgical environment with clear lighting, calm narration tone, and smooth camera movements for instructional clarity.”
 
 ---
 
